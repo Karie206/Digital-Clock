@@ -1,6 +1,6 @@
 # Digital Clock
  
-A simple digital clock built with Python and Tkinter.
+A simple digital clock built with Python
  
 ## How to Run
  
