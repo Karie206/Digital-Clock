@@ -2,7 +2,7 @@
  
 A simple digital clock built with Python
  
-## How to Rùn
+## How to Run
  
 ```bash
 python digital_clock.py
