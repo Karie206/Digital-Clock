@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clocks
  
 A simple digital clock built with Python
  
